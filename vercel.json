@@ -12,9 +12,5 @@
         "src": "/(.*)",
         "dest": "/"
       }
-    ],
-      "redirects": [
-        { "source": "/download/odetari-ts", "destination": "/download/too-slow", "permanent": false }
-      ]
-    }
-  
+    ]
+  }
