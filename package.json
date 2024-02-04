@@ -1,0 +1,14 @@
+{
+  "name": "RainbowMP3",
+  "version": "1.0.0",
+  "description": "An MP3 marketplace.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "MrRainbow",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
